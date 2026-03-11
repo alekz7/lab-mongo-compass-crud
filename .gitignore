@@ -1,1 +1,7 @@
-Crunchbase Dataset/
+node_modules
+.env
+.DS_Store
+*.zip
+*.json
+!package.json
+!package-lock.json
